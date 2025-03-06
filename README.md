@@ -17,10 +17,20 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Khushi Narang! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushi-narang-b984342aa/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:khushi19narang@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/kOYN9ydjRZ/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/khushi-narang-b984342aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:khushi19narang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/khushi-narang/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/khushi-narang/Resume">
+    <img src="https://img.shields.io/badge/Resume-%23FF5733.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
