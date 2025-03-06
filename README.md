@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💻 Passionate about **Machine Learning, AI, and Web Development**
 - 🏆 Participated in **ULIP Logistics Hackathon 2.0, SIH 2024, Convolve 3.0, Technovation 6.0**
 - 🔬 Interested in **AI Research & Software Engineering**
-- 📄 [Resume](https://drive.google.com/YOUR_RESUME_LINK)
+- 📄 [Resume](https://github.com/khushi-narang/Resume)
 
 ---
 
@@ -82,5 +82,4 @@ Here are some ideas to get you started:
 ### 📬 Let's Connect!
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/khushi-narang-b984342aa/)**
 - 📧 **khushi19narang@gmail.com**
-- 📄 [Resume](https://drive.google.com/YOUR_RESUME_LINK)
-- 🌎 **Portfolio (if available)**  
+- 📄 [Resume](https://github.com/khushi-narang/Resume)
