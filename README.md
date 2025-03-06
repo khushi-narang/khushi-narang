@@ -47,17 +47,24 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushi-narang&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-narang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-narang&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/khushi-narang/khushi-narang/blob/output/github-contribution-grid-snake.svg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=khushi-narang&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-narang&layout=compact&theme=radical" />
+  </a>
+</div>
+
+[![Khushi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khushi-narang&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🏆 LeetCode Profile
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kOYN9ydjRZ/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kOYN9ydjRZ/?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/kOYN9ydjRZ/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/khushi-narang?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/khushi-narang/)
 
 ---
 
