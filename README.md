@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 - 🎓 B.Tech CSE (AI & ML) | 2nd Year @ **Sharda University** (CGPA: 9.2)
 - 💻 Passionate about **Machine Learning, AI, and Web Development**
-- 🏆 Participated in **ULIP Logistics Hackathon 2.0, SIH 2024, Convolve 3.0, Technovation 6.0**
-- 🔬 Interested in **AI Research & Software Engineering**
+- 🏆 Participated in **Infosys iAccelerate, Sharda Technovation, Pan IIT AI/ML Convolve 3.0 etc.**
+- 🔬 Interested in ** Software Engineering, Machine Learning & AI**
 - 📄 [Resume](https://github.com/khushi-narang/Resume)
 
 ---
