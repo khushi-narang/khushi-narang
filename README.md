@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🎓 B.Tech CSE (AI & ML) | 2nd Year @ **Sharda University** (CGPA: 8.7)
 - 💻 Passionate about **Machine Learning, AI, and Web Development**
 - 🏆 Participated in **Infosys iAccelerate, Sharda Technovation, Pan IIT AI/ML Convolve 3.0 etc.**
-- 🔬 Interested in ** Software Engineering, Machine Learning & AI**
+- 🔬 Interested in **Software Engineering, Machine Learning & AI, Data Science**
 - 📄 [Resume](https://github.com/khushi-narang/Resume)
 
 ---
