@@ -78,7 +78,8 @@ Here are some ideas to get you started:
 
 ### 📌 Featured Projects
 🚀 **[Weather Notification App](https://github.com/khushi-narang/Weather_Notification)**  
-📌 A Windows notification app that notifies user the weather of a place using OpenWeatherMap API when prompted with a city. 
+📌 A Windows notification app that notifies user the weather of a place using OpenWeatherMap API when prompted with a city.
+
 🔹 **Tech Stack:** Python, Win10toast 
 
 🚀 **[Behaviour Score Model](https://github.com/khushi-narang/behaviour-score)**  
