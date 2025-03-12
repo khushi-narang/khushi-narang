@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📌 Featured Projects
-🚀 **[City Remodeling App](https://github.com/khushi-narang/city-remodeling)**  
-📌 A web-based tool for **remodeling city zones**, mapping old plans onto new layouts.  
-🔹 **Tech Stack:** React, Flask, Python, Machine Learning  
+🚀 **[Weather Notification App using Win10toast and OpenWeatherMap](https://github.com/khushi-narang/Weather_Notification)**  
+📌 A Windows notification app that notifies user the weather of a place using OpenWeatherMap API when prompted with a city.
+🔹 **Tech Stack:** Python, Win10toast 
 
 🚀 **[Behaviour Score Model](https://github.com/khushi-narang/behaviour-score)**  
 📌 A **deep learning model** to predict **credit card defaults** using financial data.  
