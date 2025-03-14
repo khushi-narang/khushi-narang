@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🏆 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kOYN9ydjRZ/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khushi-narang/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/khushi-narang?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/khushi-narang/)
 
